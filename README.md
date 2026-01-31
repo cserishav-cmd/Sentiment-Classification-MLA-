@@ -70,6 +70,13 @@ python dataset/create_dataset.py
 
 > *Note: Results may vary slightly due to random initialization.*
 
+### 📷 Visuals
+
+<p align="center">
+  <img src="image1.png" alt="Model Comparison" width="45%" />
+  <img src="image2.png" alt="Confusion Matrix" width="45%" />
+</p>
+
 ## 💻 Usage
 
 1.  Open `main.ipynb` in **Jupyter Notebook** or **VS Code**.
@@ -87,4 +94,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-<p align="center">Made with ❤️ for ML Enthusiasts</p>
+<p align ="center">Made with ❤️ for ML Enthusiasts</p>
